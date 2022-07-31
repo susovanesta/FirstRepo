@@ -1,1 +1,2 @@
 hello first file in git repo
+Added line2
